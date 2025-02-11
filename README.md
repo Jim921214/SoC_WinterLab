@@ -3,5 +3,5 @@
 ### 2. pulse generator
 ### 3. parity generator
 ### 4. IIR
-HLS design (C++) to Verilog
+HLS design (C++) to Verilog/n
 Each project contains three files: hdl, xsim, project_cpp.
